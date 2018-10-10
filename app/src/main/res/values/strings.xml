@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LinearLightsOut</string>
+    <string name="new_game">New Game</string>
+    <string name="button_match">Make the buttons match</string>
+    <string name="move_taken">You have taken %d move</string>
+    <string name="moves_taken">You have taken %d moves</string>
+    <string name="you_win">You Win!</string>
+</resources>
